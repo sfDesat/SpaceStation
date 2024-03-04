@@ -1,4 +1,4 @@
-## Space Station Playtest
+# Space Station Playtest
 I am putting up a playtest on github. If anybody is interested in testing it here is some information:
 
 ### Why?
