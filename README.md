@@ -9,3 +9,7 @@ It is just a skybox for now. It includes no gameplay aspects appart from appreci
 
 ### What do I want from you?
 Not much, I mainly want to know if you people can run it and if they run into any major issues. Although feedback or ideas are always welcome
+
+### Known Limitations:
+- Sun and moon don't move
+- Stars don't move
