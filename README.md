@@ -8,4 +8,4 @@ You only need LethalLevelLoader. Please make a fresh profile with only LethalLev
 It is just a skybox for now. It includes no gameplay aspects appart from appreciating it, i guess.
 
 ### What do I want from you?
-Not much, I mainly want to know if you people can run it and if they run into any major issues.
+Not much, I mainly want to know if you people can run it and if they run into any major issues. Although feedback or ideas are always welcome
